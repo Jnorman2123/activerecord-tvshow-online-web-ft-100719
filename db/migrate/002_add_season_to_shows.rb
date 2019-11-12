@@ -1,5 +1,5 @@
-class AddSeason < ActiveRecord::Migration
+class AddSeason < ActiveRecord::Migration[5.2]
   def change
 
   end
-end   
+end
